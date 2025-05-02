@@ -1,0 +1,12 @@
+transformers
+torch
+accelerate
+gradio
+langchain
+langchain-community
+chromadb
+sentence_transformers
+bitsandbytes
+fastapi
+uvicorn
+streamlit
