@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+transformers = "*"
+torch = "*"
+accelerate = "*"
+gradio = "*"
+langchain = "*"
+langchain-community = "*"
+chromadb = "*"
+sentence-transformers = "*"
+bitsandbytes = "*"
+fastapi = "*"
+uvicorn = "*"
+streamlit = "*"
+weaviate-client = "*"
+python-dotenv = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"

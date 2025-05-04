@@ -10,3 +10,6 @@ bitsandbytes
 fastapi
 uvicorn
 streamlit
+weaviate_client
+python-dotenv
+unstructured[pdf]

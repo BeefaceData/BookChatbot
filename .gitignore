@@ -1,2 +1,5 @@
 Model_Tokenizer
 chatbot_env
+.env
+PDF
+vector_db_path
